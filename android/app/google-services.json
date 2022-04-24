@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "21400137421",
+    "project_id": "roommate-3d4ee",
+    "storage_bucket": "roommate-3d4ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21400137421:android:26ae9d6cd003a162200384",
+        "android_client_info": {
+          "package_name": "com.room8nepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21400137421-fkltmdlsu6ti00elj4le702ood28dk29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.room8nepal",
+            "certificate_hash": "d57e2ee83ab7aba2a6e26eb53e6401a8a9389014"
+          }
+        },
+        {
+          "client_id": "21400137421-n6618qd3ud9q2109e3rqftumkm7120d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.room8nepal",
+            "certificate_hash": "746e21a6f586d95c29010ba5f39278e9586b70ca"
+          }
+        },
+        {
+          "client_id": "21400137421-nm1il0m7u4d635p15pccjhmhdruqi5nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.room8nepal",
+            "certificate_hash": "bb71b65655000b0284fa484b87ea5a3b5a3090e4"
+          }
+        },
+        {
+          "client_id": "21400137421-ttn2hfnln0jgt55ug25gi5nh19psvv5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.room8nepal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "21400137421-md28lrjknav6b61f57fsp5ren4pe2d98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwP-uCYIilLh7uDpzZal86lKTMczOL3hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21400137421-md28lrjknav6b61f57fsp5ren4pe2d98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
